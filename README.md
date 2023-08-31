@@ -1,10 +1,12 @@
-# Olá, eu sou Regimar Negreiros! 👋
+# Regimar Negreiros - Perfil 🤖🚀
 
-Sou estudante de ciência da computação no Centro Universitário IESB em Brasília. Além disso, tenho um histórico impressionante de conquistas em robótica:
+Meu nome é Regimar Negreiros e sou um entusiasta da robótica e da ciência da computação. Atualmente, sou estudante de Ciência da Computação no Centro Universitário IESB em Brasília. Minha paixão pela robótica começou cedo e tem sido uma parte fundamental da minha vida acadêmica e profissional.
 
-- Bi-campeão nacional da Olimpíada Brasileira de Robótica 2018 - 2022
-- Oitavo colocado no mundial da Robocup Junior Rescue Line 2023
+## Conquistas
 
-## Sobre mim
+- 🏆 Bi-campeão nacional da Olimpíada Brasileira de Robótica: 2018 e 2022.
+- 🌎 Oitavo colocado no Mundial da RoboCup Junior Rescue Line: 2023.
 
-Sou apaixonado por robótica e programação. Atualmente, estou aprendendo novas tecnologias e linguagens de programação para ampliar meus conhecimentos e habilidades.
+## Projetos
+
+Além das minhas conquistas nas competições, também estou envolvido em projetos pessoais e acadêmicos que exploram diversas áreas da ciência da computação. Estou constantemente buscando oportunidades para aplicar e expandir meus conhecimentos, bem como colaborar com outros entusiastas e profissionais da área.
