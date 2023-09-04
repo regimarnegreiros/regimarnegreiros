@@ -1,4 +1,4 @@
-# Regimar Negreiros - Perfil 🤖🚀
+# Regimar Negreiros - Perfil 🚀
 
 Meu nome é Regimar Negreiros e sou um entusiasta da robótica e da ciência da computação. Atualmente, sou estudante de Ciência da Computação no Centro Universitário IESB em Brasília. Minha paixão pela robótica começou cedo e tem sido uma parte fundamental da minha vida acadêmica e profissional.
 
